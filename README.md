@@ -4,15 +4,7 @@ Analista de Sistemas focado em backend e atualmente trabalhando como desenvolved
 </br>
 ## Linguagens Dominiadas:
 </br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/php.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlserver.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/php.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/sqlserver.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/java.svg" />
 </br>
 </br>
 ## Tecnologias Aprendidas:

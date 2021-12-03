@@ -22,7 +22,9 @@ Nada a declarar.
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ## Detalhes
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelusinferni" />
+</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelusinferni&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
